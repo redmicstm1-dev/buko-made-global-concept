@@ -1,0 +1,2057 @@
+[
+  {
+    "id": "BM-001",
+    "slug": "12-lead-electrocardiograph-ecg-machine",
+    "name": "12-Lead Electrocardiograph (ECG) Machine",
+    "category": "Diagnostic & Monitoring",
+    "shortDescription": "A clinical electrocardiograph for recording cardiac electrical activity during diagnostic assessment.",
+    "description": "A clinical electrocardiograph for recording cardiac electrical activity during diagnostic assessment. Confirm lead configuration, display, interpretation features, connectivity and paper format against the selected model.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/12-lead-electrocardiograph-ecg-machine.svg",
+    "imageAlt": "Buko Made medical equipment illustration for 12-Lead Electrocardiograph (ECG) Machine; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "ECG",
+      "cardiology",
+      "electrocardiograph"
+    ],
+    "kind": "ecg",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-002",
+    "slug": "multiparameter-patient-monitor",
+    "name": "Multiparameter Patient Monitor",
+    "category": "Diagnostic & Monitoring",
+    "shortDescription": "Bedside monitoring equipment used to display selected physiological parameters.",
+    "description": "Bedside monitoring equipment used to display selected physiological parameters. The available parameters, alarm functions and accessories vary by configuration and must be confirmed before purchase.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/multiparameter-patient-monitor.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Multiparameter Patient Monitor; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "patient monitor",
+      "ICU",
+      "vital signs"
+    ],
+    "kind": "monitor",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-003",
+    "slug": "portable-patient-monitor",
+    "name": "Portable Patient Monitor",
+    "category": "Diagnostic & Monitoring",
+    "shortDescription": "A compact monitoring option for clinical areas that require mobility.",
+    "description": "A compact monitoring option for clinical areas that require mobility. Confirm supported parameters, battery performance, mounting options and compatible sensors for the exact model.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/portable-patient-monitor.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Portable Patient Monitor; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "portable monitor",
+      "ward",
+      "emergency"
+    ],
+    "kind": "monitor",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-004",
+    "slug": "digital-pulse-oximeter",
+    "name": "Digital Pulse Oximeter",
+    "category": "Diagnostic & Monitoring",
+    "shortDescription": "A device for measuring peripheral oxygen saturation and pulse rate.",
+    "description": "A device for measuring peripheral oxygen saturation and pulse rate. Select a model appropriate for the intended clinical environment and verify sensor type and measurement specifications.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/digital-pulse-oximeter.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Digital Pulse Oximeter; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "pulse oximeter",
+      "SpO2"
+    ],
+    "kind": "oximeter",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-005",
+    "slug": "digital-blood-pressure-monitor",
+    "name": "Digital Blood Pressure Monitor",
+    "category": "Diagnostic & Monitoring",
+    "shortDescription": "Non-invasive blood-pressure measurement equipment for suitable clinical or home-care environments.",
+    "description": "Non-invasive blood-pressure measurement equipment for suitable clinical or home-care environments. Cuff sizes, patient groups, memory and measurement modes vary by model.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/digital-blood-pressure-monitor.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Digital Blood Pressure Monitor; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "blood pressure",
+      "BP monitor"
+    ],
+    "kind": "bp",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-006",
+    "slug": "digital-clinical-thermometer",
+    "name": "Digital Clinical Thermometer",
+    "category": "Diagnostic & Monitoring",
+    "shortDescription": "A clinical thermometer for measuring body temperature using the method supported by the selected device.",
+    "description": "A clinical thermometer for measuring body temperature using the method supported by the selected device. Confirm measurement site, probe requirements and intended use before ordering.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/digital-clinical-thermometer.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Digital Clinical Thermometer; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "thermometer",
+      "temperature"
+    ],
+    "kind": "thermometer",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-007",
+    "slug": "fetal-doppler",
+    "name": "Fetal Doppler",
+    "category": "Diagnostic & Monitoring",
+    "shortDescription": "A handheld Doppler device used by trained healthcare professionals to assess fetal heart sounds.",
+    "description": "A handheld Doppler device used by trained healthcare professionals to assess fetal heart sounds. Probe frequency, display, audio output and intended gestational use depend on the model.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/fetal-doppler.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Fetal Doppler; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "fetal doppler",
+      "maternity"
+    ],
+    "kind": "doppler",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-008",
+    "slug": "handheld-spirometer",
+    "name": "Handheld Spirometer",
+    "category": "Diagnostic & Monitoring",
+    "shortDescription": "A portable instrument for measuring selected lung-function parameters.",
+    "description": "A portable instrument for measuring selected lung-function parameters. Confirm supported tests, software, calibration requirements and applicable patient population with the supplier.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/handheld-spirometer.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Handheld Spirometer; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "spirometer",
+      "pulmonary function"
+    ],
+    "kind": "spirometer",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-009",
+    "slug": "portable-ultrasound-system",
+    "name": "Portable Ultrasound System",
+    "category": "Diagnostic & Monitoring",
+    "shortDescription": "A portable diagnostic ultrasound platform for appropriate clinical imaging applications.",
+    "description": "A portable diagnostic ultrasound platform for appropriate clinical imaging applications. Probe options, imaging modes, software and clinical applications are model-specific.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/portable-ultrasound-system.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Portable Ultrasound System; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "ultrasound",
+      "sonography",
+      "imaging"
+    ],
+    "kind": "ultrasound",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-010",
+    "slug": "automated-haematology-analyser",
+    "name": "Automated Haematology Analyser",
+    "category": "Laboratory Equipment",
+    "shortDescription": "Laboratory analyser for automated blood-cell counting and related haematology parameters.",
+    "description": "Laboratory analyser for automated blood-cell counting and related haematology parameters. Confirm throughput, differential capability, reagent system, sample requirements and service support.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/automated-haematology-analyser.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Automated Haematology Analyser; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "haematology",
+      "CBC analyser"
+    ],
+    "kind": "analyser",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-011",
+    "slug": "automated-clinical-chemistry-analyser",
+    "name": "Automated Clinical Chemistry Analyser",
+    "category": "Laboratory Equipment",
+    "shortDescription": "An analyser designed for selected clinical chemistry tests.",
+    "description": "An analyser designed for selected clinical chemistry tests. Test menu, throughput, reagent compatibility, sample volume and software vary by model and laboratory workflow.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/automated-clinical-chemistry-analyser.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Automated Clinical Chemistry Analyser; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "chemistry analyser",
+      "laboratory"
+    ],
+    "kind": "analyser",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-012",
+    "slug": "laboratory-centrifuge",
+    "name": "Laboratory Centrifuge",
+    "category": "Laboratory Equipment",
+    "shortDescription": "Equipment for separating sample components through controlled rotation.",
+    "description": "Equipment for separating sample components through controlled rotation. Rotor type, capacity, maximum speed, relative centrifugal force and tube compatibility must be confirmed.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": true,
+    "image": "/images/products/laboratory-centrifuge.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Laboratory Centrifuge; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "centrifuge",
+      "sample preparation"
+    ],
+    "kind": "centrifuge",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-013",
+    "slug": "laboratory-microscope",
+    "name": "Laboratory Microscope",
+    "category": "Laboratory Equipment",
+    "shortDescription": "Optical microscope for routine laboratory examination.",
+    "description": "Optical microscope for routine laboratory examination. Confirm magnification range, objective configuration, illumination, camera compatibility and intended applications.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/laboratory-microscope.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Laboratory Microscope; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "microscope",
+      "pathology",
+      "laboratory"
+    ],
+    "kind": "microscope",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-014",
+    "slug": "laboratory-incubator",
+    "name": "Laboratory Incubator",
+    "category": "Laboratory Equipment",
+    "shortDescription": "A temperature-controlled chamber for appropriate laboratory incubation processes.",
+    "description": "A temperature-controlled chamber for appropriate laboratory incubation processes. Working volume, temperature range, uniformity and safety controls are model-dependent.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/laboratory-incubator.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Laboratory Incubator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "laboratory incubator"
+    ],
+    "kind": "incubator",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-015",
+    "slug": "laboratory-water-bath",
+    "name": "Laboratory Water Bath",
+    "category": "Laboratory Equipment",
+    "shortDescription": "A laboratory water bath for controlled heating of compatible samples and vessels.",
+    "description": "A laboratory water bath for controlled heating of compatible samples and vessels. Confirm capacity, temperature range, stability and safety features for the intended workflow.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/laboratory-water-bath.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Laboratory Water Bath; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "water bath",
+      "laboratory"
+    ],
+    "kind": "waterbath",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-016",
+    "slug": "laboratory-refrigerator",
+    "name": "Laboratory Refrigerator",
+    "category": "Laboratory Equipment",
+    "shortDescription": "Refrigerated storage for suitable laboratory materials.",
+    "description": "Refrigerated storage for suitable laboratory materials. Confirm required temperature range, monitoring, alarm features and whether the intended materials require specialised storage controls.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/laboratory-refrigerator.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Laboratory Refrigerator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "laboratory refrigerator",
+      "cold storage"
+    ],
+    "kind": "fridge",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-017",
+    "slug": "class-ii-biosafety-cabinet",
+    "name": "Class II Biosafety Cabinet",
+    "category": "Laboratory Equipment",
+    "shortDescription": "A containment cabinet intended for specified microbiological work when correctly installed, certified and operated.",
+    "description": "A containment cabinet intended for specified microbiological work when correctly installed, certified and operated. Confirm cabinet class, size, standards, exhaust arrangement and certification requirements.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/class-ii-biosafety-cabinet.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Class II Biosafety Cabinet; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "biosafety cabinet",
+      "laboratory safety"
+    ],
+    "kind": "cabinet",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-018",
+    "slug": "electric-hospital-bed",
+    "name": "Electric Hospital Bed",
+    "category": "Hospital Beds & Furniture",
+    "shortDescription": "An electrically adjustable patient bed designed to support routine inpatient care.",
+    "description": "An electrically adjustable patient bed designed to support routine inpatient care. Mattress platform, rail configuration, safe working load, electrical requirements and accessories depend on the selected model.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/electric-hospital-bed.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Electric Hospital Bed; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "electric bed",
+      "hospital furniture"
+    ],
+    "kind": "bed",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-019",
+    "slug": "manual-hospital-bed",
+    "name": "Manual Hospital Bed",
+    "category": "Hospital Beds & Furniture",
+    "shortDescription": "A manually adjustable bed for ward and general patient-care settings.",
+    "description": "A manually adjustable bed for ward and general patient-care settings. Confirm adjustment functions, dimensions, side rails, castors, mattress compatibility and safe working load.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/manual-hospital-bed.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Manual Hospital Bed; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "manual bed",
+      "ward bed"
+    ],
+    "kind": "bed",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-020",
+    "slug": "icu-hospital-bed",
+    "name": "ICU Hospital Bed",
+    "category": "Hospital Beds & Furniture",
+    "shortDescription": "A critical-care bed platform designed for intensive-care environments.",
+    "description": "A critical-care bed platform designed for intensive-care environments. Confirm positioning functions, patient weighing, CPR release, rail design, accessories and compatibility with local clinical needs.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/icu-hospital-bed.svg",
+    "imageAlt": "Buko Made medical equipment illustration for ICU Hospital Bed; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "ICU bed",
+      "critical care"
+    ],
+    "kind": "bed",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-021",
+    "slug": "hospital-examination-couch",
+    "name": "Hospital Examination Couch",
+    "category": "Hospital Beds & Furniture",
+    "shortDescription": "An examination couch for outpatient and clinical assessment rooms.",
+    "description": "An examination couch for outpatient and clinical assessment rooms. Available configurations may differ in backrest adjustment, upholstery, dimensions and load capacity.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/hospital-examination-couch.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Hospital Examination Couch; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "examination couch",
+      "clinic bed"
+    ],
+    "kind": "couch",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-022",
+    "slug": "hospital-bedside-cabinet",
+    "name": "Hospital Bedside Cabinet",
+    "category": "Hospital Beds & Furniture",
+    "shortDescription": "Bedside storage furniture for patient rooms and wards.",
+    "description": "Bedside storage furniture for patient rooms and wards. Confirm dimensions, drawer configuration, material, cleanability and any overbed-table or mobility features required.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/hospital-bedside-cabinet.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Hospital Bedside Cabinet; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "bedside cabinet",
+      "hospital furniture"
+    ],
+    "kind": "cabinet",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-023",
+    "slug": "patient-transfer-trolley",
+    "name": "Patient Transfer Trolley",
+    "category": "Hospital Beds & Furniture",
+    "shortDescription": "A wheeled trolley used for moving patients within healthcare facilities.",
+    "description": "A wheeled trolley used for moving patients within healthcare facilities. Confirm side rails, mattress platform, height adjustment, wheel brakes and safe working load.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/patient-transfer-trolley.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Patient Transfer Trolley; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "patient trolley",
+      "transfer stretcher"
+    ],
+    "kind": "trolley",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-024",
+    "slug": "wheelchair",
+    "name": "Wheelchair",
+    "category": "Hospital Beds & Furniture",
+    "shortDescription": "A mobility aid for suitable users and care settings.",
+    "description": "A mobility aid for suitable users and care settings. Seat width, frame type, wheel configuration, brakes, footrests and user weight rating should be selected to fit the individual and environment.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/wheelchair.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Wheelchair; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "wheelchair",
+      "mobility"
+    ],
+    "kind": "wheelchair",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-025",
+    "slug": "operating-theatre-table",
+    "name": "Operating Theatre Table",
+    "category": "Surgical & Sterilisation",
+    "shortDescription": "A surgical table for positioning patients during appropriate procedures.",
+    "description": "A surgical table for positioning patients during appropriate procedures. Table movement, load rating, tabletop sections, accessories and compatibility with the theatre workflow vary by model.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/operating-theatre-table.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Operating Theatre Table; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "operating table",
+      "surgery"
+    ],
+    "kind": "operatingtable",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-026",
+    "slug": "led-surgical-light",
+    "name": "LED Surgical Light",
+    "category": "Surgical & Sterilisation",
+    "shortDescription": "An operating or procedure light designed to illuminate the clinical field.",
+    "description": "An operating or procedure light designed to illuminate the clinical field. Confirm illuminance, colour rendering, focus, mounting type, shadow control and power requirements.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/led-surgical-light.svg",
+    "imageAlt": "Buko Made medical equipment illustration for LED Surgical Light; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "surgical light",
+      "theatre light"
+    ],
+    "kind": "surgicallight",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-027",
+    "slug": "electrosurgical-unit",
+    "name": "Electrosurgical Unit",
+    "category": "Surgical & Sterilisation",
+    "shortDescription": "An electrosurgical generator for selected surgical applications when used by trained professionals with compatible accessories.",
+    "description": "An electrosurgical generator for selected surgical applications when used by trained professionals with compatible accessories. Confirm output modes, power ratings, safety features and accessory compatibility.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/electrosurgical-unit.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Electrosurgical Unit; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "electrosurgical unit",
+      "diathermy"
+    ],
+    "kind": "esu",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-028",
+    "slug": "surgical-suction-machine",
+    "name": "Surgical Suction Machine",
+    "category": "Surgical & Sterilisation",
+    "shortDescription": "A suction system for removing fluids in appropriate clinical settings.",
+    "description": "A suction system for removing fluids in appropriate clinical settings. Confirm flow rate, vacuum range, collection capacity, filter arrangement and required tubing or accessories.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/surgical-suction-machine.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Surgical Suction Machine; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "suction machine",
+      "aspirator"
+    ],
+    "kind": "suction",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-029",
+    "slug": "steam-autoclave",
+    "name": "Steam Autoclave",
+    "category": "Surgical & Sterilisation",
+    "shortDescription": "A steam steriliser for compatible instruments and loads using validated cycles.",
+    "description": "A steam steriliser for compatible instruments and loads using validated cycles. Chamber size, cycle options, installation needs, documentation and local compliance requirements must be verified.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/steam-autoclave.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Steam Autoclave; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "autoclave",
+      "sterilisation"
+    ],
+    "kind": "autoclave",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-030",
+    "slug": "instrument-sterilisation-tray",
+    "name": "Instrument Sterilisation Tray",
+    "category": "Surgical & Sterilisation",
+    "shortDescription": "A tray for organising and processing compatible instruments within an approved sterilisation workflow.",
+    "description": "A tray for organising and processing compatible instruments within an approved sterilisation workflow. Dimensions, material, perforation and compatibility with the selected process should be checked.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/instrument-sterilisation-tray.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Instrument Sterilisation Tray; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "sterilisation tray",
+      "instrument tray"
+    ],
+    "kind": "tray",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-031",
+    "slug": "surgical-instrument-trolley",
+    "name": "Surgical Instrument Trolley",
+    "category": "Surgical & Sterilisation",
+    "shortDescription": "A mobile trolley for organising and transporting clinical instruments and supplies.",
+    "description": "A mobile trolley for organising and transporting clinical instruments and supplies. Confirm shelf count, material, dimensions, castors and cleaning requirements.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/surgical-instrument-trolley.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Surgical Instrument Trolley; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "instrument trolley",
+      "theatre trolley"
+    ],
+    "kind": "trolley",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-032",
+    "slug": "biphasic-defibrillator",
+    "name": "Biphasic Defibrillator",
+    "category": "Emergency & Respiratory",
+    "shortDescription": "A defibrillator intended for use by appropriately trained responders.",
+    "description": "A defibrillator intended for use by appropriately trained responders. Confirm manual or AED operation, energy settings, patient modes, battery, pads and local training requirements.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/biphasic-defibrillator.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Biphasic Defibrillator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "defibrillator",
+      "emergency"
+    ],
+    "kind": "defibrillator",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-033",
+    "slug": "medical-oxygen-concentrator",
+    "name": "Medical Oxygen Concentrator",
+    "category": "Emergency & Respiratory",
+    "shortDescription": "A device that concentrates oxygen from ambient air for prescribed applications.",
+    "description": "A device that concentrates oxygen from ambient air for prescribed applications. Flow capability, oxygen concentration specifications, operating environment and service requirements are model-specific.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/medical-oxygen-concentrator.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Medical Oxygen Concentrator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "oxygen concentrator",
+      "respiratory"
+    ],
+    "kind": "oxygen",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-034",
+    "slug": "medical-ventilator",
+    "name": "Medical Ventilator",
+    "category": "Emergency & Respiratory",
+    "shortDescription": "A respiratory support device for appropriate clinical environments and trained users.",
+    "description": "A respiratory support device for appropriate clinical environments and trained users. Confirm patient groups, ventilation modes, monitoring, consumables and required backup arrangements for the chosen model.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/medical-ventilator.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Medical Ventilator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "ventilator",
+      "respiratory support"
+    ],
+    "kind": "ventilator",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-035",
+    "slug": "infusion-pump",
+    "name": "Infusion Pump",
+    "category": "Emergency & Respiratory",
+    "shortDescription": "A pump for controlled delivery of compatible fluids.",
+    "description": "A pump for controlled delivery of compatible fluids. Confirm supported administration sets, flow range, alarm functions, battery operation and intended clinical application.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/infusion-pump.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Infusion Pump; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "infusion pump",
+      "IV pump"
+    ],
+    "kind": "infusion",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-036",
+    "slug": "syringe-pump",
+    "name": "Syringe Pump",
+    "category": "Emergency & Respiratory",
+    "shortDescription": "A pump designed to deliver fluids from compatible syringes at controlled rates.",
+    "description": "A pump designed to deliver fluids from compatible syringes at controlled rates. Syringe compatibility, flow range, accuracy specifications and alarm functions vary by model.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/syringe-pump.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Syringe Pump; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "syringe pump"
+    ],
+    "kind": "syringepump",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-037",
+    "slug": "nebuliser",
+    "name": "Nebuliser",
+    "category": "Emergency & Respiratory",
+    "shortDescription": "A device that converts prescribed liquid medication into an inhalable aerosol using its supported technology.",
+    "description": "A device that converts prescribed liquid medication into an inhalable aerosol using its supported technology. Confirm intended patient group, medication compatibility and consumable requirements.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/nebuliser.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Nebuliser; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "nebuliser",
+      "aerosol therapy"
+    ],
+    "kind": "nebuliser",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-038",
+    "slug": "infant-incubator",
+    "name": "Infant Incubator",
+    "category": "Maternity & Neonatal",
+    "shortDescription": "A controlled neonatal care environment designed for specialised clinical use.",
+    "description": "A controlled neonatal care environment designed for specialised clinical use. Temperature control, humidity, monitoring, access ports and safety features depend on the model and intended setting.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/infant-incubator.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Infant Incubator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "infant incubator",
+      "neonatal"
+    ],
+    "kind": "incubator",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-039",
+    "slug": "neonatal-radiant-warmer",
+    "name": "Neonatal Radiant Warmer",
+    "category": "Maternity & Neonatal",
+    "shortDescription": "A radiant warming system used in neonatal care under appropriate clinical supervision.",
+    "description": "A radiant warming system used in neonatal care under appropriate clinical supervision. Confirm temperature-control modes, alarms, resuscitation access and required accessories.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/neonatal-radiant-warmer.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Neonatal Radiant Warmer; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "radiant warmer",
+      "newborn"
+    ],
+    "kind": "warmer",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-040",
+    "slug": "fetal-monitor-cardiotocograph",
+    "name": "Fetal Monitor / Cardiotocograph",
+    "category": "Maternity & Neonatal",
+    "shortDescription": "A fetal monitoring system for recording fetal heart rate and uterine activity in suitable clinical settings.",
+    "description": "A fetal monitoring system for recording fetal heart rate and uterine activity in suitable clinical settings. Confirm transducers, display, paper format, connectivity and supported monitoring modes.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/fetal-monitor-cardiotocograph.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Fetal Monitor / Cardiotocograph; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "CTG",
+      "fetal monitor",
+      "maternity"
+    ],
+    "kind": "fetalmonitor",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-041",
+    "slug": "infant-weighing-scale",
+    "name": "Infant Weighing Scale",
+    "category": "Maternity & Neonatal",
+    "shortDescription": "A scale designed for weighing infants in clinical or care settings.",
+    "description": "A scale designed for weighing infants in clinical or care settings. Capacity, resolution, units, tray dimensions and calibration requirements should be confirmed.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/infant-weighing-scale.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Infant Weighing Scale; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "baby scale",
+      "infant scale"
+    ],
+    "kind": "scale",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-042",
+    "slug": "ecg-recording-paper",
+    "name": "ECG Recording Paper",
+    "category": "Medical Printing & Consumables",
+    "shortDescription": "Recording paper for compatible electrocardiographs.",
+    "description": "Recording paper for compatible electrocardiographs. Paper width, roll or Z-fold format, grid, length and device compatibility must be matched to the exact ECG model before ordering.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/ecg-recording-paper.svg",
+    "imageAlt": "Buko Made medical equipment illustration for ECG Recording Paper; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "ECG paper",
+      "electrocardiograph paper"
+    ],
+    "kind": "paper",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-043",
+    "slug": "sony-upp-series-compatible-medical-printing-paper",
+    "name": "Sony UPP-Series-Compatible Medical Printing Paper",
+    "category": "Medical Printing & Consumables",
+    "shortDescription": "Thermal medical printing paper for compatible Sony medical video printers.",
+    "description": "Thermal medical printing paper for compatible Sony medical video printers. Confirm the exact paper type and printer model; UPP-110S, UPP-110HD, UPP-110HA and UPP-110HG are not interchangeable in every use case.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/sony-upp-series-compatible-medical-printing-paper.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Sony UPP-Series-Compatible Medical Printing Paper; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "Sony UPP-110S",
+      "UPP-110HD",
+      "medical print media"
+    ],
+    "kind": "paper",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-044",
+    "slug": "medical-video-printer",
+    "name": "Medical Video Printer",
+    "category": "Medical Printing & Consumables",
+    "shortDescription": "A printer for supported medical imaging systems.",
+    "description": "A printer for supported medical imaging systems. Confirm interface, supported media, print size, compatible imaging equipment and model-specific consumables before purchase.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/medical-video-printer.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Medical Video Printer; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "medical printer",
+      "video printer"
+    ],
+    "kind": "printer",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-045",
+    "slug": "disposable-examination-gloves",
+    "name": "Disposable Examination Gloves",
+    "category": "Medical Printing & Consumables",
+    "shortDescription": "Single-use gloves for appropriate examination and care tasks.",
+    "description": "Single-use gloves for appropriate examination and care tasks. Material, size, powder status, intended use and applicable product documentation should be confirmed before purchase.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/disposable-examination-gloves.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Disposable Examination Gloves; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "examination gloves",
+      "nitrile gloves"
+    ],
+    "kind": "gloves",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-046",
+    "slug": "disposable-syringes",
+    "name": "Disposable Syringes",
+    "category": "Medical Printing & Consumables",
+    "shortDescription": "Single-use syringes in selected capacities and configurations for appropriate clinical use.",
+    "description": "Single-use syringes in selected capacities and configurations for appropriate clinical use. Confirm capacity, tip type, needle inclusion, sterility and packaging requirements.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/disposable-syringes.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Disposable Syringes; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "disposable syringe",
+      "clinical consumables"
+    ],
+    "kind": "syringe",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-047",
+    "slug": "medical-examination-light",
+    "name": "Medical Examination Light",
+    "category": "General Clinical Supplies",
+    "shortDescription": "A focused light for examination and minor procedures.",
+    "description": "A focused light for examination and minor procedures. Confirm mounting, illumination performance, positioning range and power configuration for the intended room.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/medical-examination-light.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Medical Examination Light; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "examination light",
+      "clinic lighting"
+    ],
+    "kind": "examinationlight",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-048",
+    "slug": "medical-suction-catheter",
+    "name": "Medical Suction Catheter",
+    "category": "General Clinical Supplies",
+    "shortDescription": "A catheter intended for use with compatible suction equipment in appropriate clinical procedures.",
+    "description": "A catheter intended for use with compatible suction equipment in appropriate clinical procedures. Size, connector, material, sterile packaging and intended application must be specified.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/medical-suction-catheter.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Medical Suction Catheter; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "suction catheter",
+      "consumable"
+    ],
+    "kind": "catheter",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-049",
+    "slug": "iv-infusion-set",
+    "name": "IV Infusion Set",
+    "category": "General Clinical Supplies",
+    "shortDescription": "An infusion set for compatible intravenous fluid administration.",
+    "description": "An infusion set for compatible intravenous fluid administration. Confirm connector type, tubing configuration, filter or vent features, sterility and intended use.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/iv-infusion-set.svg",
+    "imageAlt": "Buko Made medical equipment illustration for IV Infusion Set; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "IV set",
+      "infusion set"
+    ],
+    "kind": "ivset",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  },
+  {
+    "id": "BM-050",
+    "slug": "blood-glucose-monitoring-system",
+    "name": "Blood Glucose Monitoring System",
+    "category": "General Clinical Supplies",
+    "shortDescription": "A blood glucose meter used with its specified compatible test strips and accessories.",
+    "description": "A blood glucose meter used with its specified compatible test strips and accessories. Confirm strip availability, measurement units, sample requirements and documentation for the exact model.",
+    "features": [
+      "Product configuration confirmed against the selected model",
+      "Product details and compatibility checked before quotation",
+      "Sourcing options available on request"
+    ],
+    "specifications": [
+      {
+        "label": "Model / configuration",
+        "value": "Confirm with Buko Made before ordering"
+      },
+      {
+        "label": "Availability",
+        "value": "Subject to supplier confirmation"
+      },
+      {
+        "label": "Pricing",
+        "value": "Request a quotation"
+      }
+    ],
+    "priceType": "quote",
+    "price": null,
+    "currency": "NGN",
+    "availability": "quote",
+    "featured": false,
+    "image": "/images/products/blood-glucose-monitoring-system.svg",
+    "imageAlt": "Buko Made medical equipment illustration for Blood Glucose Monitoring System; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "tags": [
+      "glucometer",
+      "glucose meter"
+    ],
+    "kind": "glucometer",
+    "manufacturer": null,
+    "compatibilityNote": "Confirm the exact model, accessories, consumables and intended use before placing an order."
+  }
+]

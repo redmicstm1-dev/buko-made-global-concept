@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Diagnostic & Monitoring",
+    "slug": "diagnostic-monitoring",
+    "description": "Equipment for clinical measurement, cardiac assessment and physiological monitoring."
+  },
+  {
+    "name": "Laboratory Equipment",
+    "slug": "laboratory-equipment",
+    "description": "Equipment for sample preparation, analysis, microscopy and controlled laboratory workflows."
+  },
+  {
+    "name": "Hospital Beds & Furniture",
+    "slug": "hospital-beds-furniture",
+    "description": "Beds, trolleys and furniture for wards, examination rooms and patient transport."
+  },
+  {
+    "name": "Surgical & Sterilisation",
+    "slug": "surgical-sterilisation",
+    "description": "Equipment and accessories for operating theatres, instrument handling and validated sterilisation workflows."
+  },
+  {
+    "name": "Emergency & Respiratory",
+    "slug": "emergency-respiratory",
+    "description": "Equipment for emergency response, respiratory care and controlled fluid delivery."
+  },
+  {
+    "name": "Maternity & Neonatal",
+    "slug": "maternity-neonatal",
+    "description": "Equipment for maternity services, neonatal care and infant assessment."
+  },
+  {
+    "name": "Medical Printing & Consumables",
+    "slug": "medical-printing-consumables",
+    "description": "Medical print media and frequently requested clinical consumables."
+  },
+  {
+    "name": "General Clinical Supplies",
+    "slug": "general-clinical-supplies",
+    "description": "Selected accessories and clinical supplies for everyday care environments."
+  }
+]
