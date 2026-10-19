@@ -30,8 +30,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/12-lead-electrocardiograph-ecg-machine.svg",
-    "imageAlt": "Buko Made medical equipment illustration for 12-Lead Electrocardiograph (ECG) Machine; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/12-lead-electrocardiograph-ecg-machine.webp",
+    "imageAlt": "Representative medical equipment photograph for 12-Lead Electrocardiograph (ECG) Machine, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "ECG",
       "cardiology",
@@ -72,8 +72,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/multiparameter-patient-monitor.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Multiparameter Patient Monitor; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/multiparameter-patient-monitor.webp",
+    "imageAlt": "Representative medical equipment photograph for Multiparameter Patient Monitor, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "patient monitor",
       "ICU",
@@ -114,8 +114,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/portable-patient-monitor.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Portable Patient Monitor; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/portable-patient-monitor.webp",
+    "imageAlt": "Representative medical equipment photograph for Portable Patient Monitor, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "portable monitor",
       "ward",
@@ -156,8 +156,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/digital-pulse-oximeter.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Digital Pulse Oximeter; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/digital-pulse-oximeter.webp",
+    "imageAlt": "Representative medical equipment photograph for Digital Pulse Oximeter, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "pulse oximeter",
       "SpO2"
@@ -197,8 +197,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/digital-blood-pressure-monitor.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Digital Blood Pressure Monitor; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/digital-blood-pressure-monitor.webp",
+    "imageAlt": "Representative medical equipment photograph for Digital Blood Pressure Monitor, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "blood pressure",
       "BP monitor"
@@ -238,8 +238,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/digital-clinical-thermometer.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Digital Clinical Thermometer; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/digital-clinical-thermometer.webp",
+    "imageAlt": "Representative medical equipment photograph for Digital Clinical Thermometer, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "thermometer",
       "temperature"
@@ -279,8 +279,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/fetal-doppler.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Fetal Doppler; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/fetal-doppler.webp",
+    "imageAlt": "Representative medical equipment photograph for Fetal Doppler, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "fetal doppler",
       "maternity"
@@ -320,8 +320,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/handheld-spirometer.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Handheld Spirometer; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/handheld-spirometer.webp",
+    "imageAlt": "Representative medical equipment photograph for Handheld Spirometer, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "spirometer",
       "pulmonary function"
@@ -361,8 +361,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/portable-ultrasound-system.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Portable Ultrasound System; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/portable-ultrasound-system.webp",
+    "imageAlt": "Representative medical equipment photograph for Portable Ultrasound System, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "ultrasound",
       "sonography",
@@ -403,8 +403,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/automated-haematology-analyser.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Automated Haematology Analyser; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/automated-haematology-analyser.webp",
+    "imageAlt": "Representative medical equipment photograph for Automated Haematology Analyser, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "haematology",
       "CBC analyser"
@@ -444,8 +444,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/automated-clinical-chemistry-analyser.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Automated Clinical Chemistry Analyser; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/automated-clinical-chemistry-analyser.webp",
+    "imageAlt": "Representative medical equipment photograph for Automated Clinical Chemistry Analyser, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "chemistry analyser",
       "laboratory"
@@ -485,8 +485,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": true,
-    "image": "/images/products/laboratory-centrifuge.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Laboratory Centrifuge; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/laboratory-centrifuge.webp",
+    "imageAlt": "Representative medical equipment photograph for Laboratory Centrifuge, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "centrifuge",
       "sample preparation"
@@ -526,8 +526,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/laboratory-microscope.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Laboratory Microscope; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/laboratory-microscope.webp",
+    "imageAlt": "Representative medical equipment photograph for Laboratory Microscope, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "microscope",
       "pathology",
@@ -568,8 +568,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/laboratory-incubator.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Laboratory Incubator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/laboratory-incubator.webp",
+    "imageAlt": "Representative medical equipment photograph for Laboratory Incubator, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "laboratory incubator"
     ],
@@ -608,8 +608,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/laboratory-water-bath.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Laboratory Water Bath; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/laboratory-water-bath.webp",
+    "imageAlt": "Representative medical equipment photograph for Laboratory Water Bath, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "water bath",
       "laboratory"
@@ -649,8 +649,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/laboratory-refrigerator.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Laboratory Refrigerator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/laboratory-refrigerator.webp",
+    "imageAlt": "Representative medical equipment photograph for Laboratory Refrigerator, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "laboratory refrigerator",
       "cold storage"
@@ -690,8 +690,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/class-ii-biosafety-cabinet.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Class II Biosafety Cabinet; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/class-ii-biosafety-cabinet.webp",
+    "imageAlt": "Representative medical equipment photograph for Class II Biosafety Cabinet, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "biosafety cabinet",
       "laboratory safety"
@@ -731,8 +731,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/electric-hospital-bed.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Electric Hospital Bed; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/electric-hospital-bed.webp",
+    "imageAlt": "Representative medical equipment photograph for Electric Hospital Bed, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "electric bed",
       "hospital furniture"
@@ -772,8 +772,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/manual-hospital-bed.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Manual Hospital Bed; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/manual-hospital-bed.webp",
+    "imageAlt": "Representative medical equipment photograph for Manual Hospital Bed, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "manual bed",
       "ward bed"
@@ -813,8 +813,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/icu-hospital-bed.svg",
-    "imageAlt": "Buko Made medical equipment illustration for ICU Hospital Bed; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/icu-hospital-bed.webp",
+    "imageAlt": "Representative medical equipment photograph for ICU Hospital Bed, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "ICU bed",
       "critical care"
@@ -854,8 +854,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/hospital-examination-couch.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Hospital Examination Couch; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/hospital-examination-couch.webp",
+    "imageAlt": "Representative medical equipment photograph for Hospital Examination Couch, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "examination couch",
       "clinic bed"
@@ -895,8 +895,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/hospital-bedside-cabinet.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Hospital Bedside Cabinet; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/hospital-bedside-cabinet.webp",
+    "imageAlt": "Representative medical equipment photograph for Hospital Bedside Cabinet, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "bedside cabinet",
       "hospital furniture"
@@ -936,8 +936,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/patient-transfer-trolley.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Patient Transfer Trolley; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/patient-transfer-trolley.webp",
+    "imageAlt": "Representative medical equipment photograph for Patient Transfer Trolley, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "patient trolley",
       "transfer stretcher"
@@ -977,8 +977,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/wheelchair.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Wheelchair; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/wheelchair.webp",
+    "imageAlt": "Representative medical equipment photograph for Wheelchair, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "wheelchair",
       "mobility"
@@ -1018,8 +1018,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/operating-theatre-table.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Operating Theatre Table; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/operating-theatre-table.webp",
+    "imageAlt": "Representative medical equipment photograph for Operating Theatre Table, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "operating table",
       "surgery"
@@ -1059,8 +1059,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/led-surgical-light.svg",
-    "imageAlt": "Buko Made medical equipment illustration for LED Surgical Light; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/led-surgical-light.webp",
+    "imageAlt": "Representative medical equipment photograph for LED Surgical Light, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "surgical light",
       "theatre light"
@@ -1100,8 +1100,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/electrosurgical-unit.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Electrosurgical Unit; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/electrosurgical-unit.webp",
+    "imageAlt": "Representative medical equipment photograph for Electrosurgical Unit, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "electrosurgical unit",
       "diathermy"
@@ -1141,8 +1141,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/surgical-suction-machine.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Surgical Suction Machine; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/surgical-suction-machine.webp",
+    "imageAlt": "Representative medical equipment photograph for Surgical Suction Machine, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "suction machine",
       "aspirator"
@@ -1182,8 +1182,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/steam-autoclave.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Steam Autoclave; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/steam-autoclave.webp",
+    "imageAlt": "Representative medical equipment photograph for Steam Autoclave, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "autoclave",
       "sterilisation"
@@ -1223,8 +1223,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/instrument-sterilisation-tray.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Instrument Sterilisation Tray; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/instrument-sterilisation-tray.webp",
+    "imageAlt": "Representative medical equipment photograph for Instrument Sterilisation Tray, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "sterilisation tray",
       "instrument tray"
@@ -1264,8 +1264,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/surgical-instrument-trolley.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Surgical Instrument Trolley; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/surgical-instrument-trolley.webp",
+    "imageAlt": "Representative medical equipment photograph for Surgical Instrument Trolley, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "instrument trolley",
       "theatre trolley"
@@ -1305,8 +1305,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/biphasic-defibrillator.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Biphasic Defibrillator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/biphasic-defibrillator.webp",
+    "imageAlt": "Representative medical equipment photograph for Biphasic Defibrillator, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "defibrillator",
       "emergency"
@@ -1346,8 +1346,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/medical-oxygen-concentrator.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Medical Oxygen Concentrator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/medical-oxygen-concentrator.webp",
+    "imageAlt": "Representative medical equipment photograph for Medical Oxygen Concentrator, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "oxygen concentrator",
       "respiratory"
@@ -1387,8 +1387,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/medical-ventilator.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Medical Ventilator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/medical-ventilator.webp",
+    "imageAlt": "Representative medical equipment photograph for Medical Ventilator, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "ventilator",
       "respiratory support"
@@ -1428,8 +1428,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/infusion-pump.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Infusion Pump; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/infusion-pump.webp",
+    "imageAlt": "Representative medical equipment photograph for Infusion Pump, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "infusion pump",
       "IV pump"
@@ -1469,8 +1469,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/syringe-pump.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Syringe Pump; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/syringe-pump.webp",
+    "imageAlt": "Representative medical equipment photograph for Syringe Pump, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "syringe pump"
     ],
@@ -1509,8 +1509,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/nebuliser.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Nebuliser; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/nebuliser.webp",
+    "imageAlt": "Representative medical equipment photograph for Nebuliser, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "nebuliser",
       "aerosol therapy"
@@ -1550,8 +1550,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/infant-incubator.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Infant Incubator; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/infant-incubator.webp",
+    "imageAlt": "Representative medical equipment photograph for Infant Incubator, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "infant incubator",
       "neonatal"
@@ -1591,8 +1591,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/neonatal-radiant-warmer.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Neonatal Radiant Warmer; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/neonatal-radiant-warmer.webp",
+    "imageAlt": "Representative medical equipment photograph for Neonatal Radiant Warmer, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "radiant warmer",
       "newborn"
@@ -1632,8 +1632,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/fetal-monitor-cardiotocograph.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Fetal Monitor / Cardiotocograph; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/fetal-monitor-cardiotocograph.webp",
+    "imageAlt": "Representative medical equipment photograph for Fetal Monitor / Cardiotocograph, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "CTG",
       "fetal monitor",
@@ -1674,8 +1674,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/infant-weighing-scale.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Infant Weighing Scale; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/infant-weighing-scale.webp",
+    "imageAlt": "Representative medical equipment photograph for Infant Weighing Scale, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "baby scale",
       "infant scale"
@@ -1715,8 +1715,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/ecg-recording-paper.svg",
-    "imageAlt": "Buko Made medical equipment illustration for ECG Recording Paper; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/ecg-recording-paper.webp",
+    "imageAlt": "Representative medical equipment photograph for ECG Recording Paper, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "ECG paper",
       "electrocardiograph paper"
@@ -1756,8 +1756,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/sony-upp-series-compatible-medical-printing-paper.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Sony UPP-Series-Compatible Medical Printing Paper; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/sony-upp-series-compatible-medical-printing-paper.webp",
+    "imageAlt": "Representative medical equipment photograph for Sony UPP-Series-Compatible Medical Printing Paper, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "Sony UPP-110S",
       "UPP-110HD",
@@ -1798,8 +1798,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/medical-video-printer.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Medical Video Printer; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/medical-video-printer.webp",
+    "imageAlt": "Representative medical equipment photograph for Medical Video Printer, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "medical printer",
       "video printer"
@@ -1839,8 +1839,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/disposable-examination-gloves.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Disposable Examination Gloves; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/disposable-examination-gloves.webp",
+    "imageAlt": "Representative medical equipment photograph for Disposable Examination Gloves, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "examination gloves",
       "nitrile gloves"
@@ -1880,8 +1880,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/disposable-syringes.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Disposable Syringes; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/disposable-syringes.webp",
+    "imageAlt": "Representative medical equipment photograph for Disposable Syringes, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "disposable syringe",
       "clinical consumables"
@@ -1921,8 +1921,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/medical-examination-light.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Medical Examination Light; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/medical-examination-light.webp",
+    "imageAlt": "Representative medical equipment photograph for Medical Examination Light, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "examination light",
       "clinic lighting"
@@ -1962,8 +1962,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/medical-suction-catheter.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Medical Suction Catheter; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/medical-suction-catheter.webp",
+    "imageAlt": "Representative medical equipment photograph for Medical Suction Catheter, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "suction catheter",
       "consumable"
@@ -2003,8 +2003,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/iv-infusion-set.svg",
-    "imageAlt": "Buko Made medical equipment illustration for IV Infusion Set; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/iv-infusion-set.webp",
+    "imageAlt": "Representative medical equipment photograph for IV Infusion Set, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "IV set",
       "infusion set"
@@ -2044,8 +2044,8 @@
     "currency": "NGN",
     "availability": "quote",
     "featured": false,
-    "image": "/images/products/blood-glucose-monitoring-system.svg",
-    "imageAlt": "Buko Made medical equipment illustration for Blood Glucose Monitoring System; run npm run assets:download to install the locally stored watermarked stock photograph.",
+    "image": "/images/products/blood-glucose-monitoring-system.webp",
+    "imageAlt": "Representative medical equipment photograph for Blood Glucose Monitoring System, branded with the Buko Made watermark. Exact model and configuration may differ; confirm details before ordering.",
     "tags": [
       "glucometer",
       "glucose meter"
