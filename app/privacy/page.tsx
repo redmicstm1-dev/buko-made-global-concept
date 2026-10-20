@@ -1,3 +1,44 @@
 import type { Metadata } from "next";
-export const metadata: Metadata = { title: "Privacy notice" };
-export default function PrivacyPage() { return <><section className="page-hero"><div className="container"><div className="breadcrumbs"><a href="/">Home</a> / Privacy</div><h1>Privacy notice</h1><p>How to use the website and what to consider when sending an enquiry.</p></div></section><section className="section"><div className="container prose"><h2>Information you choose to share</h2><p>Quotation and sourcing forms may include your name, organisation, contact details, delivery location and product requirements. In this free version, forms prepare a message for your chosen email application or WhatsApp. The website does not submit these messages to a private database.</p><h2>Cart storage</h2><p>The shopping cart is saved in local storage in your browser so it can persist as you browse. It is not a customer account and is not automatically visible to Buko Made.</p><h2>Third-party services</h2><p>WhatsApp, your email application, your browser and the website host operate under their own terms and privacy practices. When you choose to open one of those services, its policies apply to your use of that service.</p><h2>Contact</h2><p>For questions about this notice, contact <a href="mailto:chibukoakwuobu@gmail.com">chibukoakwuobu@gmail.com</a>. This draft should be reviewed against the business's actual data-handling practices before launch.</p></div></section></>; }
+import Link from "next/link"; // Imported Next.js Link abstraction
+
+export const metadata: Metadata = { 
+  title: "Privacy notice" 
+};
+
+export default function PrivacyPage() { 
+  return (
+    <>
+      <section className="page-hero">
+        <div className="container">
+          {/* Switched raw anchor tag to Link component */}
+          <div className="breadcrumbs">
+            <Link href="/">Home</Link> / Privacy
+          </div>
+          <h1>Privacy notice</h1>
+          <p>How to use the website and what to consider when sending an enquiry.</p>
+        </div>
+      </section>
+      
+      <section className="section">
+        <div className="container prose">
+          <h2>Information you choose to share</h2>
+          <p>Quotation and sourcing forms may include your name, organisation, contact details, delivery location and product requirements. In this free version, forms prepare a message for your chosen email application or WhatsApp. The website does not submit these messages to a private database.</p>
+          
+          <h2>Cart storage</h2>
+          <p>The shopping cart is saved in local storage in your browser so it can persist as you browse. It is not a customer account and is not automatically visible to Buko Made.</p>
+          
+          <h2>Third-party services</h2>
+          <p>WhatsApp, your email application, your browser and the website host operate under their own terms and privacy practices. When you choose to open one of those services, its policies apply to your use of that service.</p>
+          
+          <h2>Contact</h2>
+          {/* Fixed external mailto links to remain native but clean, and escaped business's contraction */}
+          <p>
+            For questions about this notice, contact{" "}
+            <a href="mailto:chibukoakwuobu@gmail.com">chibukoakwuobu@gmail.com</a>. 
+            This draft should be reviewed against the business&apos;s actual data-handling practices before launch.
+          </p>
+        </div>
+      </section>
+    </>
+  ); 
+}

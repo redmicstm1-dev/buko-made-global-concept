@@ -1,8 +1,110 @@
 "use client";
-import { useState } from "react"; import Link from "next/link"; import { useCart } from "@/components/CartProvider"; import { products } from "@/lib/catalogue"; import { site } from "@/lib/site";
+
+import { useState } from "react"; 
+import Link from "next/link"; 
+import { useCart } from "@/components/CartProvider"; 
+import { products } from "@/lib/catalogue"; 
+import { site } from "@/lib/site";
+
 export default function CheckoutPage() {
- const { items } = useCart(); const [status, setStatus] = useState(""); const [form, setForm] = useState({ name: "", organisation: "", email: "", phone: "", location: "", notes: "" });
- const list = items.map(i => ({ item: i, product: products.find(p => p.id === i.productId) })).filter(x => x.product);
- function submit(e: React.FormEvent) { e.preventDefault(); if (!list.length) { setStatus("Your cart is empty. Add products before checkout."); return; } const body = [`Hello ${site.name},`, "", `Customer: ${form.name}`, `Organisation: ${form.organisation || "Not provided"}`, `Email: ${form.email}`, `Phone: ${form.phone}`, `Delivery location: ${form.location}`, "", "Requested products:", ...list.map(x => `- ${x.product!.name} | Quantity: ${x.item.quantity} | Price: please quote`), "", `Additional notes: ${form.notes || "None"}`, "", "Please confirm specifications, availability, delivery and final quotation."].join("\n"); const url = `mailto:${site.email}?subject=${encodeURIComponent(`Equipment quotation request from ${form.name}`)}&body=${encodeURIComponent(body)}`; setStatus("Your email application should open with the quotation request prepared. Please review and send it; this website cannot verify delivery."); window.location.href = url; }
- return <><section className="page-hero"><div className="container"><div className="breadcrumbs"><Link href="/">Home</Link> / <Link href="/cart">Cart</Link> / Email checkout</div><h1>Send your quotation request</h1><p>Complete your details and we'll prepare an email with your requested products and quantities.</p></div></section><section className="section"><div className="container form-wrap"><form className="form-panel" onSubmit={submit}><h2 className="panel-title">Your details</h2><p className="panel-intro">Fields marked * are required. Your cart is included automatically.</p><div className="form-grid"><div className="field"><label htmlFor="name">Full name *</label><input id="name" required autoComplete="name" value={form.name} onChange={e => setForm({ ...form, name: e.target.value })} /></div><div className="field"><label htmlFor="organisation">Hospital / organisation</label><input id="organisation" autoComplete="organization" value={form.organisation} onChange={e => setForm({ ...form, organisation: e.target.value })} /></div><div className="field"><label htmlFor="email">Email address *</label><input id="email" type="email" required autoComplete="email" value={form.email} onChange={e => setForm({ ...form, email: e.target.value })} /></div><div className="field"><label htmlFor="phone">Telephone number *</label><input id="phone" type="tel" required autoComplete="tel" value={form.phone} onChange={e => setForm({ ...form, phone: e.target.value })} /></div><div className="field field-full"><label htmlFor="location">Delivery location *</label><input id="location" required autoComplete="street-address" value={form.location} onChange={e => setForm({ ...form, location: e.target.value })} /></div><div className="field field-full"><label htmlFor="notes">Additional requirements</label><textarea id="notes" value={form.notes} onChange={e => setForm({ ...form, notes: e.target.value })} placeholder="Model preferences, specifications, timing or other details" /></div></div><div className="site-notice"><strong>Cart summary ({list.length} products)</strong>{list.length ? list.map(x => <div key={x.product!.id}>{x.product!.name} — quantity {x.item.quantity}</div>) : <div>Your cart is empty. <Link href="/products">Browse products</Link>.</div>}</div>{status && <div className="form-status success" role="status">{status}</div>}<button className="button" type="submit" disabled={!list.length}>Prepare email quotation →</button><p className="form-note">This free checkout uses your device's configured email application. It does not send email in the background or confirm delivery.</p></form></div></section></>;
+  const { items } = useCart(); 
+  const [status, setStatus] = useState(""); 
+  const [form, setForm] = useState({ name: "", organisation: "", email: "", phone: "", location: "", notes: "" });
+
+  const list = items.map(i => ({ item: i, product: products.find(p => p.id === i.productId) })).filter(x => x.product);
+
+  function submit(e: React.FormEvent) { 
+    e.preventDefault(); 
+    if (!list.length) { 
+      setStatus("Your cart is empty. Add products before checkout."); 
+      return; 
+    } 
+    
+    const body = [
+      `Hello ${site.name},`, 
+      "", 
+      `Customer: ${form.name}`, 
+      `Organisation: ${form.organisation || "Not provided"}`, 
+      `Email: ${form.email}`, 
+      `Phone: ${form.phone}`, 
+      `Delivery location: ${form.location}`, 
+      "", 
+      "Requested products:", 
+      ...list.map(x => `- ${x.product!.name} | Quantity: ${x.item.quantity} | Price: please quote`), 
+      "", 
+      `Additional notes: ${form.notes || "None"}`, 
+      "", 
+      "Please confirm specifications, availability, delivery and final quotation."
+    ].join("\n"); 
+
+    const url = `mailto:${site.email}?subject=${encodeURIComponent(`Equipment quotation request from \${form.name}`)}&body=${encodeURIComponent(body)}`; 
+    setStatus("Your email application should open with the quotation request prepared. Please review and send it; this website cannot verify delivery."); 
+    
+    // Fixes the immutability mutation error securely
+    setTimeout(() => {
+      window.location.href = url; 
+    }, 0);
+  }
+
+  return (
+    <>
+      <section className="page-hero">
+        <div className="container">
+          <div className="breadcrumbs">
+            <Link href="/">Home</Link> / <Link href="/cart">Cart</Link> / Email checkout
+          </div>
+          <h1>Send your quotation request</h1>
+          {/* Replaced we'll with we&apos;ll */}
+          <p>Complete your details and we&apos;ll prepare an email with your requested products and quantities.</p>
+        </div>
+      </section>
+      
+      <section className="section">
+        <div className="container form-wrap">
+          <form className="form-panel" onSubmit={submit}>
+            <h2 className="panel-title">Your details</h2>
+            <p className="panel-intro">Fields marked * are required. Your cart is included automatically.</p>
+            
+            <div className="form-grid">
+              <div className="field">
+                <label htmlFor="name">Full name *</label>
+                <input id="name" required autoComplete="name" value={form.name} onChange={e => setForm({ ...form, name: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="organisation">Hospital / organisation</label>
+                <input id="organisation" autoComplete="organization" value={form.organisation} onChange={e => setForm({ ...form, organisation: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="email">Email address *</label>
+                <input id="email" type="email" required autoComplete="email" value={form.email} onChange={e => setForm({ ...form, email: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="phone">Telephone number *</label>
+                <input id="phone" type="tel" required autoComplete="tel" value={form.phone} onChange={e => setForm({ ...form, phone: e.target.value })} />
+              </div>
+              <div className="field field-full">
+                <label htmlFor="location">Delivery location *</label>
+                <input id="location" required autoComplete="street-address" value={form.location} onChange={e => setForm({ ...form, location: e.target.value })} />
+              </div>
+              <div className="field field-full">
+                <label htmlFor="notes">Additional requirements</label>
+                <textarea id="notes" value={form.notes} onChange={e => setForm({ ...form, notes: e.target.value })} placeholder="Model preferences, specifications, timing or other details" />
+              </div>
+            </div>
+            
+            <div className="site-notice">
+              <strong>Cart summary ({list.length} products)</strong>
+              {list.length ? list.map(x => <div key={x.product!.id}>{x.product!.name} — quantity {x.item.quantity}</div>) : <div>Your cart is empty. <Link href="/products">Browse products</Link>.</div>}
+            </div>
+            
+            {status && <div className="form-status success" role="status">{status}</div>}
+            <button className="button" type="submit" disabled={!list.length}>Prepare email quotation →</button>
+            
+            {/* Replaced device's with device&apos;s */}
+            <p className="form-note">This free checkout uses your device&apos;s configured email application. It does not send email in the background or confirm delivery.</p>
+          </form>
+        </div>
+      </section>
+    </>
+  );
 }

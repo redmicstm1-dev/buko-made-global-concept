@@ -1,7 +1,113 @@
 "use client";
-import { useState } from "react"; import Link from "next/link"; import { site } from "@/lib/site";
+
+import { useState } from "react"; 
+import Link from "next/link"; 
+import { site } from "@/lib/site";
+
 export default function SourceProductPage() {
- const [f, setF] = useState({ name: "", organisation: "", email: "", phone: "", product: "", model: "", quantity: "1", location: "", details: "" }); const [status, setStatus] = useState("");
- function submit(e: React.FormEvent) { e.preventDefault(); const body = [`Hello ${site.name}, please help me source a product not currently listed on the website.`, "", `Name: ${f.name}`, `Organisation: ${f.organisation || "Not provided"}`, `Email: ${f.email}`, `Phone: ${f.phone}`, `Product: ${f.product}`, `Manufacturer/model: ${f.model || "Not known"}`, `Quantity: ${f.quantity}`, `Delivery location: ${f.location}`, `Requirements: ${f.details || "Not provided"}`].join("\n"); window.open(`https://wa.me/${site.whatsappNumber}?text=${encodeURIComponent(body)}`, "_blank", "noopener,noreferrer"); setStatus("WhatsApp opened with your product sourcing request prepared. Review the details and press Send."); }
- return <><section className="page-hero"><div className="container"><div className="breadcrumbs"><Link href="/">Home</Link> / Source a product</div><h1>Can't find the product you need?</h1><p>Tell us what your facility is looking for—even if it isn't in the current catalogue. Model details help us review your request more accurately.</p></div></section><section className="section"><div className="container form-wrap"><form className="form-panel" onSubmit={submit}><h2 className="panel-title">Product sourcing request</h2><p className="panel-intro">Share as much information as you have. You can still enquire if you don't know the exact model.</p><div className="form-grid"><div className="field"><label htmlFor="s-name">Full name *</label><input id="s-name" required value={f.name} onChange={e => setF({ ...f, name: e.target.value })} /></div><div className="field"><label htmlFor="s-org">Organisation</label><input id="s-org" value={f.organisation} onChange={e => setF({ ...f, organisation: e.target.value })} /></div><div className="field"><label htmlFor="s-email">Email *</label><input id="s-email" type="email" required value={f.email} onChange={e => setF({ ...f, email: e.target.value })} /></div><div className="field"><label htmlFor="s-phone">Phone / WhatsApp *</label><input id="s-phone" type="tel" required value={f.phone} onChange={e => setF({ ...f, phone: e.target.value })} /></div><div className="field field-full"><label htmlFor="s-product">Product required *</label><input id="s-product" required value={f.product} onChange={e => setF({ ...f, product: e.target.value })} placeholder="Equipment name or description" /></div><div className="field"><label htmlFor="s-model">Manufacturer / model</label><input id="s-model" value={f.model} onChange={e => setF({ ...f, model: e.target.value })} /></div><div className="field"><label htmlFor="s-quantity">Quantity *</label><input id="s-quantity" required value={f.quantity} onChange={e => setF({ ...f, quantity: e.target.value })} /></div><div className="field field-full"><label htmlFor="s-location">Delivery location *</label><input id="s-location" required value={f.location} onChange={e => setF({ ...f, location: e.target.value })} /></div><div className="field field-full"><label htmlFor="s-details">Specifications / intended use / notes</label><textarea id="s-details" value={f.details} onChange={e => setF({ ...f, details: e.target.value })} placeholder="Specifications, accessories, intended use or other relevant details" /></div></div>{status && <div className="form-status success" role="status">{status}</div>}<div className="form-actions"><button className="button" type="submit">Prepare sourcing request on WhatsApp →</button><a className="button button-outline" href={`mailto:${site.email}?subject=${encodeURIComponent("Product sourcing enquiry")}`}>Email us instead</a></div><p className="form-note">This free form prepares a WhatsApp message. It does not submit it automatically; please review and send the message.</p></form></div></section></>;
+  const [f, setF] = useState({ 
+    name: "", 
+    organisation: "", 
+    email: "", 
+    phone: "", 
+    product: "", 
+    model: "", 
+    quantity: "1", 
+    location: "", 
+    details: "" 
+  }); 
+  const [status, setStatus] = useState("");
+
+  function submit(e: React.FormEvent) { 
+    e.preventDefault(); 
+    const body = [
+      `Hello ${site.name}, please help me source a product not currently listed on the website.`, 
+      "", 
+      `Name: ${f.name}`, 
+      `Organisation: ${f.organisation || "Not provided"}`, 
+      `Email: ${f.email}`, 
+      `Phone: ${f.phone}`, 
+      `Product: ${f.product}`, 
+      `Manufacturer/model: ${f.model || "Not known"}`, 
+      `Quantity: ${f.quantity}`, 
+      `Delivery location: ${f.location}`, 
+      `Requirements: ${f.details || "Not provided"}`
+    ].join("\n"); 
+
+    window.open(`https://wa.me/${site.whatsappNumber}?text=${encodeURIComponent(body)}`, "_blank", "noopener,noreferrer"); 
+    setStatus("WhatsApp opened with your product sourcing request prepared. Review the details and press Send."); 
+  }
+
+  return (
+    <>
+      <section className="page-hero">
+        <div className="container">
+          <div className="breadcrumbs">
+            <Link href="/">Home</Link> / Source a product
+          </div>
+          {/* Fixed "Can't" contraction to "Can&apos;t" */}
+          <h1>Can&apos;t find the product you need?</h1>
+          {/* Fixed "isn't" contraction to "isn&apos;t" and em-dash to "&mdash;" */}
+          <p>Tell us what your facility is looking for&mdash;even if it isn&apos;t in the current catalogue. Model details help us review your request more accurately.</p>
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="container form-wrap">
+          <form className="form-panel" onSubmit={submit}>
+            <h2 className="panel-title">Product sourcing request</h2>
+            {/* Fixed "don't" contraction to "don&apos;t" */}
+            <p className="panel-intro">Share as much information as you have. You can still enquire if you don&apos;t know the exact model.</p>
+            
+            <div className="form-grid">
+              <div className="field">
+                <label htmlFor="s-name">Full name *</label>
+                <input id="s-name" required value={f.name} onChange={e => setF({ ...f, name: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="s-org">Organisation</label>
+                <input id="s-org" value={f.organisation} onChange={e => setF({ ...f, organisation: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="s-email">Email *</label>
+                <input id="s-email" type="email" required value={f.email} onChange={e => setF({ ...f, email: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="s-phone">Phone / WhatsApp *</label>
+                <input id="s-phone" type="tel" required value={f.phone} onChange={e => setF({ ...f, phone: e.target.value })} />
+              </div>
+              <div className="field field-full">
+                <label htmlFor="s-product">Product required *</label>
+                <input id="s-product" required value={f.product} onChange={e => setF({ ...f, product: e.target.value })} placeholder="Equipment name or description" />
+              </div>
+              <div className="field">
+                <label htmlFor="s-model">Manufacturer / model</label>
+                <input id="s-model" value={f.model} onChange={e => setF({ ...f, model: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="s-quantity">Quantity *</label>
+                <input id="s-quantity" required value={f.quantity} onChange={e => setF({ ...f, quantity: e.target.value })} />
+              </div>
+              <div className="field field-full">
+                <label htmlFor="s-location">Delivery location *</label>
+                <input id="s-location" required value={f.location} onChange={e => setF({ ...f, location: e.target.value })} />
+              </div>
+              <div className="field field-full">
+                <label htmlFor="s-details">Specifications / intended use / notes</label>
+                <textarea id="s-details" value={f.details} onChange={e => setF({ ...f, details: e.target.value })} placeholder="Specifications, accessories, intended use or other relevant details" />
+              </div>
+            </div>
+
+            {status && <div className="form-status success" role="status">{status}</div>}
+            
+            <div className="form-actions">
+              <button className="button" type="submit">Prepare sourcing request on WhatsApp →</button>
+              <a className="button button-outline" href={`mailto:${site.email}?subject=${encodeURIComponent("Product sourcing enquiry")}`}>Email us instead</a>
+            </div>
+            <p className="form-note">This free form prepares a WhatsApp message. It does not submit it automatically; please review and send the message.</p>
+          </form>
+        </div>
+      </section>
+    </>
+  );
 }

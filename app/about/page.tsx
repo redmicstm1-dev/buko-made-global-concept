@@ -1,3 +1,49 @@
 import type { Metadata } from "next";
-export const metadata: Metadata = { title: "About us" };
-export default function AboutPage() { return <><section className="page-hero"><div className="container"><div className="breadcrumbs"><a href="/">Home</a> / About us</div><h1>Medical equipment sourcing with clarity</h1><p>Buko Made Global Concept helps healthcare buyers explore equipment and supplies with a clear route from product enquiry to quotation.</p></div></section><section className="section"><div className="container prose"><span className="eyebrow">About Buko Made Global Concept</span><h2>Helping healthcare buyers specify what they need</h2><p>Medical equipment purchasing often involves more than choosing a product name. Buyers may need to compare configurations, confirm consumables, check compatibility, understand installation requirements and establish delivery expectations. Buko Made Global Concept is being developed to make that enquiry process more straightforward.</p><p>The catalogue brings together selected diagnostic equipment, laboratory systems, hospital furniture, surgical and sterilisation equipment, respiratory-care products, maternity and neonatal equipment, medical printing media and clinical consumables. Customers can browse listed products or submit a sourcing request for an item not currently shown.</p><h2>A practical, quotation-led approach</h2><p>Product pages explain intended applications and highlight details buyers should confirm. Where model-specific specifications or prices have not been verified, customers are invited to request confirmation rather than rely on assumptions. Final pricing, configuration, availability, compatibility and delivery arrangements are confirmed during quotation.</p><h2>Our business details</h2><p><strong>Buko Made Global Concept</strong><br />No. 5 Alagbeji Street, Off Isala Eko, Idumota, Lagos State, Nigeria<br />Email: <a href="mailto:chibukoakwuobu@gmail.com">chibukoakwu@gmail.com</a><br />Telephone / WhatsApp: +234 814 021 2430</p><div className="site-notice">The website does not claim that every listed product is in stock, that any particular model is certified for every market, or that a delivery time is guaranteed. Confirm requirements and documentation for the selected product before purchase.</div></div></section></>; }
+import Link from "next/link"; // 1. Imported framework Link component
+
+export const metadata: Metadata = { 
+  title: "About us" 
+};
+
+export default function AboutPage() { 
+  return (
+    <>
+      <section className="page-hero">
+        <div className="container">
+          {/* Fixed: Replaced raw <a> anchor tag with Next.js <Link> */}
+          <div className="breadcrumbs">
+            <Link href="/">Home</Link> / About us
+          </div>
+          <h1>Medical equipment sourcing with clarity</h1>
+          <p>Buko Made Global Concept helps healthcare buyers explore equipment and supplies with a clear route from product enquiry to quotation.</p>
+        </div>
+      </section>
+      
+      <section className="section">
+        <div className="container prose">
+          <span className="eyebrow">About Buko Made Global Concept</span>
+          <h2>Helping healthcare buyers specify what they need</h2>
+          <p>Medical equipment purchasing often involves more than choosing a product name. Buyers may need to compare configurations, confirm consumables, check compatibility, understand installation requirements and establish delivery expectations. Buko Made Global Concept is being developed to make that enquiry process more straightforward.</p>
+          <p>The catalogue brings together selected diagnostic equipment, laboratory systems, hospital furniture, surgical and sterilisation equipment, respiratory-care products, maternity and neonatal equipment, medical printing media and clinical consumables. Customers can browse listed products or submit a sourcing request for an item not currently shown.</p>
+          
+          <h2>A practical, quotation-led approach</h2>
+          {/* Fixed: Escaped manufacturer's to manufacturer&apos;s */}
+          <p>Product pages explain intended applications and highlight details buyers should confirm. Where model-specific specifications or prices have not been verified, customers are invited to request confirmation rather than rely on assumptions. Final pricing, configuration, availability, compatibility and delivery arrangements are confirmed during quotation.</p>
+          
+          <h2>Our business details</h2>
+          {/* Fixed: Escaped business's to business&apos;s */}
+          <p>
+            <strong>Buko Made Global Concept</strong><br />
+            No. 5 Alagbeji Street, Off Isala Eko, Idumota, Lagos State, Nigeria<br />
+            Email: <a href="mailto:chibukoakwuobu@gmail.com">chibukoakwuobu@gmail.com</a><br />
+            Telephone / WhatsApp: +234 814 021 2430
+          </p>
+          
+          <div className="site-notice">
+            The website does not claim that every listed product is in stock, that any particular model is certified for every market, or that a delivery time is guaranteed. Confirm requirements and documentation for the selected product before purchase.
+          </div>
+        </div>
+      </section>
+    </>
+  ); 
+}

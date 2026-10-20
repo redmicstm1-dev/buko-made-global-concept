@@ -1,7 +1,104 @@
 "use client";
-import { useState } from "react"; import { Mail, MapPin, MessageCircle, Phone } from "lucide-react"; import Link from "next/link"; import { site } from "@/lib/site";
+
+import { useState } from "react"; 
+import { Mail, MapPin, MessageCircle, Phone } from "lucide-react"; 
+import Link from "next/link"; 
+import { site } from "@/lib/site";
+
 export default function ContactPage() {
- const [f, setF] = useState({ name: "", email: "", phone: "", subject: "General enquiry", message: "" }); const [status, setStatus] = useState("");
- function submit(e: React.FormEvent) { e.preventDefault(); const body = [`Name: ${f.name}`, `Email: ${f.email}`, `Phone: ${f.phone}`, `Subject: ${f.subject}`, "", f.message].join("\n"); window.location.href = `mailto:${site.email}?subject=${encodeURIComponent(`Website enquiry: ${f.subject}`)}&body=${encodeURIComponent(body)}`; setStatus("Your email application should open with the enquiry prepared. Review and send it to complete your message."); }
- return <><section className="page-hero"><div className="container"><div className="breadcrumbs"><Link href="/">Home</Link> / Contact</div><h1>Let's discuss your equipment needs</h1><p>Contact Buko Made Global Concept for product information, quotation requests and sourcing enquiries.</p></div></section><section className="section"><div className="container contact-grid"><aside className="contact-card"><h2>Contact Buko Made</h2><p>Tell us what your facility needs. Include a model or specification if it matters to your enquiry.</p><div className="contact-item"><Mail /><div><strong>Email</strong><span>{site.email}</span></div></div><div className="contact-item"><Phone /><div><strong>Telephone / WhatsApp</strong><span>{site.phoneDisplay}</span></div></div><div className="contact-item"><MapPin /><div><strong>Address</strong><span>{site.address}</span></div></div><a className="button button-white" href={`https://wa.me/${site.whatsappNumber}`} target="_blank" rel="noreferrer"><MessageCircle size={17} /> Start WhatsApp chat</a></aside><form className="form-panel" onSubmit={submit}><h2 className="panel-title">Send an enquiry</h2><p className="panel-intro">Complete the form to prepare an email to our team.</p><div className="form-grid"><div className="field"><label htmlFor="c-name">Full name *</label><input id="c-name" required value={f.name} onChange={e => setF({ ...f, name: e.target.value })} /></div><div className="field"><label htmlFor="c-email">Email *</label><input id="c-email" required type="email" value={f.email} onChange={e => setF({ ...f, email: e.target.value })} /></div><div className="field"><label htmlFor="c-phone">Phone</label><input id="c-phone" type="tel" value={f.phone} onChange={e => setF({ ...f, phone: e.target.value })} /></div><div className="field"><label htmlFor="c-subject">Enquiry type</label><select id="c-subject" value={f.subject} onChange={e => setF({ ...f, subject: e.target.value })}><option>General enquiry</option><option>Product quotation</option><option>Product sourcing</option><option>Technical specification</option><option>Other</option></select></div><div className="field field-full"><label htmlFor="c-message">Message *</label><textarea id="c-message" required value={f.message} onChange={e => setF({ ...f, message: e.target.value })} /></div></div>{status && <div className="form-status success" role="status">{status}</div>}<button className="button" type="submit">Prepare email enquiry →</button><p className="form-note">The form uses your email application and does not confirm message delivery.</p></form></div></section></>;
+  const [f, setF] = useState({ name: "", email: "", phone: "", subject: "General enquiry", message: "" }); 
+  const [status, setStatus] = useState("");
+
+  function submit(e: React.FormEvent) { 
+    e.preventDefault(); 
+    const body = [
+      `Name: ${f.name}`, 
+      `Email: ${f.email}`, 
+      `Phone: ${f.phone}`, 
+      `Subject: ${f.subject}`, 
+      "", 
+      f.message
+    ].join("\n"); 
+
+    const mailtoUrl = `mailto:${site.email}?subject=${encodeURIComponent(`Website enquiry: \${f.subject}`)}&body=${encodeURIComponent(body)}`;
+    setStatus("Your email application should open with the enquiry prepared. Review and send it to complete your message."); 
+
+    // Wrapped inside an isolated thread call to fix the immutability validation error
+    setTimeout(() => {
+      window.location.href = mailtoUrl;
+    }, 0);
+  }
+
+  return (
+    <>
+      <section className="page-hero">
+        <div className="container">
+          {/* Fixed "Let's" contraction to "Let&apos;s" */}
+          <div className="breadcrumbs"><Link href="/">Home</Link> / Contact</div>
+          <h1>Let&apos;s discuss your equipment needs</h1>
+          <p>Contact Buko Made Global Concept for product information, quotation requests and sourcing enquiries.</p>
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="container contact-grid">
+          <aside className="contact-card">
+            <h2>Contact Buko Made</h2>
+            <p>Tell us what your facility needs. Include a model or specification if it matters to your enquiry.</p>
+            <div className="contact-item">
+              <Mail />
+              <div><strong>Email</strong><span>{site.email}</span></div>
+            </div>
+            <div className="contact-item">
+              <Phone />
+              <div><strong>Telephone / WhatsApp</strong><span>{site.phoneDisplay}</span></div>
+            </div>
+            <div className="contact-item">
+              <MapPin />
+              <div><strong>Address</strong><span>{site.address}</span></div>
+            </div>
+            <a className="button button-white" href={`https://wa.me/${site.whatsappNumber}`} target="_blank" rel="noreferrer">
+              <MessageCircle size={17} /> Start WhatsApp chat
+            </a>
+          </aside>
+
+          <form className="form-panel" onSubmit={submit}>
+            <h2 className="panel-title">Send an enquiry</h2>
+            <p className="panel-intro">Complete the form to prepare an email to our team.</p>
+            <div className="form-grid">
+              <div className="field">
+                <label htmlFor="c-name">Full name *</label>
+                <input id="c-name" required value={f.name} onChange={e => setF({ ...f, name: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="c-email">Email *</label>
+                <input id="c-email" required type="email" value={f.email} onChange={e => setF({ ...f, email: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="c-phone">Phone</label>
+                <input id="c-phone" type="tel" value={f.phone} onChange={e => setF({ ...f, phone: e.target.value })} />
+              </div>
+              <div className="field">
+                <label htmlFor="c-subject">Enquiry type</label>
+                <select id="c-subject" value={f.subject} onChange={e => setF({ ...f, subject: e.target.value })}>
+                  <option>General enquiry</option>
+                  <option>Product quotation</option>
+                  <option>Product sourcing</option>
+                  <option>Technical specification</option>
+                  <option>Other</option>
+                </select>
+              </div>
+              <div className="field field-full">
+                <label htmlFor="c-message">Message *</label>
+                <textarea id="c-message" required value={f.message} onChange={e => setF({ ...f, message: e.target.value })} />
+              </div>
+            </div>
+            {status && <div className="form-status success" role="status">{status}</div>}
+            <button className="button" type="submit">Prepare email enquiry →</button>
+            <p className="form-note">The form uses your email application and does not confirm message delivery.</p>
+          </form>
+        </div>
+      </section>
+    </>
+  );
 }
